@@ -1,0 +1,363 @@
+class Candy {
+
+       private String maker;	//e.g. Hershey’s, Willy Wonka
+       private boolean isChocolatey;
+       private double price;
+       
+       Candy(String mak,boolean isCocoa,double money){
+       this.mak=maker;
+       this.isCocoa=isChocolatey;
+       this.money=price;
+       }
+       Candy sad = new Candy();
+       sad.maker(Hershey’s);
+       sad.isChocolatey();
+       sad.price(5$);
+       voidAndStuff main(insertStuffHere){
+       
+       
+            
+       }
+       
+}
+class Pig {
+
+       private String name;
+       private boolean isSheepHerder;
+name Babe = new name();
+name Rasher = new name();
+name ziggy = new name();
+
+
+
+
+       public Pig(String name, boolean canHerdSheep) {
+            // write code here 
+this.name=name;
+this.canHerdSheep=isSheepHerder;
+
+
+
+
+      }
+      public boolean willBecomeBacon() {
+            if(this.isSheepHerder)
+                  return false;
+            else return true;
+      }
+
+
+
+
+boolean b = ziggy.willBecomeBacon();
+
+if(b == true){
+syso("bacon for breakfast");
+}
+else if(b == false){
+syso("eggs for breakfast");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void food(String fruit) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       System.out.println("I like " + fruit); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+ 
+ 
+ 
+ 
+food("apples"); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void truth(int x) {
+
+       if(x > 5) 
+
+              System.out.println("Geeks rule");
+
+       else
+
+              System.out.println("Nerds rule");
+
+}
+
+
+truth(6);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void drawLine() {
+
+       Tortoise.move(100);
+
+       Tortoise.turn(90); 
+}
+
+for(i=0;i>4;i++){
+drawLine();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class Hell {
+
+       Hell(int hotness) {
+
+
+
+      }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+public class Bacon {
+
+      String style = "streaky";
+
+      Bacon (String style) {
+            this.style = style;
+      }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public class Unicorn {
+
+int horns;
+      public Unicorn() {
+            this.horns = 1;
+      }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class Narwhal {
+
+      public Narwhal(){}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+classe Noodle 
+
+     int type = "slimy"; 
+
+      Noodle(String flavor) { 
+          this.flavor = type;
+
+
+     void slurp() { 
+          return "yum yum";
+     type++												//
+     } 
+
+} 

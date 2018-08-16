@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 
 public class Vault {
-int code = 12345678;
+int code = 123456;
 	
 		boolean tryCode(int rex) {
 			if (rex == code) {
@@ -17,6 +17,7 @@ int code = 12345678;
 		//	int jop = JOptionPane.showInputDialog("what is the code");
 		Vault vic = new Vault();
 			//vic.tryCode(99999999);
+	
 			System.out.println(vic.tryCode(12345678));
 		}
 			
