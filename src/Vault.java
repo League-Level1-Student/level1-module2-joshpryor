@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 
 public class Vault {
-int code = 123456;
+int code = 947456;
 	
 		boolean tryCode(int rex) {
 			if (rex == code) {
